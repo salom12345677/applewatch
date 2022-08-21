@@ -1,0 +1,11 @@
+body {
+	background-image: url('../img/hero-bg1.png'), url('../img/hero-bg2.png');
+	background-position: top 0 center, top 0 left 0;
+	background-size: 1600px 760px, 800px 800px;
+	background-repeat: no-repeat, no-repeat;
+}
+main {
+	background-image: url('../img/hero-img.png');
+	background-repeat: no-repeat;
+	background-position: top 100px right 0;
+}
